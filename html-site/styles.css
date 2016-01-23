@@ -1,0 +1,13 @@
+p{
+  font-family: 'Exo 2', sans-serif;
+}
+p em {
+  color: yellow;
+}
+#nav {
+  text-align: center;
+  background-color: teal;
+  color: white;
+  width: 300px;
+  border: dotted
+}
